@@ -1,0 +1,42 @@
+/* 4K*/
+@media only screen and (max-width:5920px) {
+
+}
+
+/* Full HD*/
+@media only screen and (max-width:1920px) {
+
+}
+
+/* Экстрабольшие девайсы (большие десктопы, >= 1200px) */
+@media only screen and (max-width: 1200px) { 
+    
+}
+
+
+/* Большие девайсы (десктопы, <= 991px) */
+@media only screen and (max-width: 991px) { 
+
+}
+
+/* Средние девайсы («таблетки», <= 767px) */
+@media only screen and (max-width: 767px) { 
+    
+}
+
+/* Малые девайсы («ландшафтные телефоны», <= 575px) */
+@media only screen and (max-width: 575px) {
+    
+}
+
+@media only screen and (max-width: 490px) {
+   
+}
+@media only screen and (max-width: 400px) {
+   
+}
+
+/* IPhone 5 */
+@media only screen and (max-width: 320px) {
+
+}
